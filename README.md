@@ -3,8 +3,6 @@
 
 这个项目的最初版本源自一个B站up主 Minicking开放的代码，在其代码的基础上我进行了学习、更改和扩充
 ，视频链接[A*寻路算法动态演示](https://www.bilibili.com/video/BV1FJ411j7oG?share_source=copy_web&vd_source=e09e7d9860329cf23712dbc79e5ed45e)
-# install
-目前版本为免安装版本，打开.exe即可
 
 # usage
 
